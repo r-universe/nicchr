@@ -8,6 +8,9 @@
 [submodule "cppdoubles"]
 	path = cppdoubles
 	url = https://github.com/nicchr/cppdoubles
+[submodule "fastplyr"]
+	path = fastplyr
+	url = https://github.com/nicchr/fastplyr
 [submodule "timeplyr"]
 	path = timeplyr
 	url = https://github.com/nicchr/timeplyr
