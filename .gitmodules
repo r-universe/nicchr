@@ -5,6 +5,9 @@
 [submodule "cheapr"]
 	path = cheapr
 	url = https://github.com/nicchr/cheapr
+[submodule "cppally"]
+	path = cppally
+	url = https://github.com/nicchr/cppally
 [submodule "cppdoubles"]
 	path = cppdoubles
 	url = https://github.com/nicchr/cppdoubles
